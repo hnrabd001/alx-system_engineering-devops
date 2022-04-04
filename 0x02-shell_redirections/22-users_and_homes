@@ -1,2 +1,2 @@
 #!/bin/bash
-du | sort -d /etc/passwd
+du /etc/passwd | sort -d
